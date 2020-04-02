@@ -56,6 +56,10 @@ new_hash = {
           :b_and_o_railroad => 
           {
             
+          } ,
+          :shortline_railroad =>
+          {
+            
           }
         }
       }
